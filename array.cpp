@@ -17,6 +17,11 @@ int main (){
     cout<<v[0]<<endl; // 4
     cout<<v[3]<<endl; // 8
 cout<<v[0]<<endl;
+cout<<"hello woorld";
+
+
+    cout<<arr[0]<<endl; // 4
+    cout<<arr[3]<<endl; // 8
 
 
     return 0;
