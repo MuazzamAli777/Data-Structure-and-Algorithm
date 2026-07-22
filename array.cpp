@@ -16,6 +16,7 @@ int main (){
     vector<int> v = {4,6,2,8,1};
     cout<<v[0]<<endl; // 4
     cout<<v[3]<<endl; // 8
+cout<<v[0]<<endl;
 
 
     return 0;
