@@ -22,6 +22,9 @@ cout<<"hello woorld";
 
     cout<<arr[0]<<endl; // 4
     cout<<arr[3]<<endl; // 8
+    
+    cout<<arr[0]<<endl; // 4
+    cout<<arr[3]<<endl; // 8
 
 
     return 0;
